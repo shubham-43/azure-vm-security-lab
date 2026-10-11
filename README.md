@@ -16,6 +16,15 @@ Architecture Components
 - Network Security Group (NSG): Filters inbound and outbound network traffic.
 - Azure Bastion: Provides browser-based remote access to VMs through their private IP addresses.
 
+- Network Address Plan
+
+Component| Example address
+Virtual Network| 10.0.0.0/16
+VM Subnet| 10.0.1.0/24
+Linux VM Private IP| 10.0.1.4
+
+These addresses are used for the proposed lab design. No Azure resources have been deployed.
+
 Security Principles
 
 - Apply least-privilege access.
