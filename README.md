@@ -114,4 +114,18 @@ flowchart TD
 ```
 
 
+
+## Current Progress
+- [x] Learned the roles of Azure architecture components
+- [x] Documented the proposed network address plan
+- [x] Documented proposed network security rules
+- [x] Added SSH troubleshooting scenario
+- [x] Added DNS troubleshooting scenario
+- [x] Added HTTP 503 troubleshooting scenario
+- [x] Added proposed architecture diagram
+- [ ] Review and improve project documentation
+- [ ] Complete further hands-on exercises
+
+**Implementation status:** Documentation and simulated troubleshooting only. No Azure infrastructure has been deployed.
+
 This is a learning and documentation project. No Azure infrastructure has been deployed as part of the initial activities.
